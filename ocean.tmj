@@ -416,7 +416,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -470,6 +470,11 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Ocean is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"ocean.png"
         }, 
         {
          "name":"mapName",
