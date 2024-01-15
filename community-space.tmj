@@ -6267,7 +6267,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "community-space-chunk-1-16ccbba3.png",
+      "image": "community-space-chunk-1-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6303,7 +6303,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "community-space-chunk-2-16ccbba3.png",
+      "image": "community-space-chunk-2-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6318,7 +6318,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "community-space-chunk-3-16ccbba3.png",
+      "image": "community-space-chunk-3-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6333,7 +6333,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "community-space-chunk-4-16ccbba3.png",
+      "image": "community-space-chunk-4-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6348,7 +6348,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "community-space-chunk-5-16ccbba3.png",
+      "image": "community-space-chunk-5-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6363,7 +6363,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "community-space-chunk-6-16ccbba3.png",
+      "image": "community-space-chunk-6-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6378,7 +6378,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "community-space-chunk-7-16ccbba3.png",
+      "image": "community-space-chunk-7-06bd34a1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6393,7 +6393,7 @@
     {
       "columns": 13,
       "firstgid": 1793,
-      "image": "community-space-chunk-8-16ccbba3.png",
+      "image": "community-space-chunk-8-06bd34a1.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -6418,6 +6418,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Community Space is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "community-space.png"
     },
     {
       "name": "mapName",

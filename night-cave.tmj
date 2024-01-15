@@ -20167,12 +20167,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "night-cave-chunk-1-fa7b2e50.png",
+      "image": "night-cave-chunk-1-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20208,7 +20208,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "night-cave-chunk-2-fa7b2e50.png",
+      "image": "night-cave-chunk-2-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20223,7 +20223,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "night-cave-chunk-3-fa7b2e50.png",
+      "image": "night-cave-chunk-3-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20238,7 +20238,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "night-cave-chunk-4-fa7b2e50.png",
+      "image": "night-cave-chunk-4-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20253,7 +20253,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "night-cave-chunk-5-fa7b2e50.png",
+      "image": "night-cave-chunk-5-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20268,7 +20268,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "night-cave-chunk-6-fa7b2e50.png",
+      "image": "night-cave-chunk-6-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20283,7 +20283,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "night-cave-chunk-7-fa7b2e50.png",
+      "image": "night-cave-chunk-7-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20298,7 +20298,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "night-cave-chunk-8-fa7b2e50.png",
+      "image": "night-cave-chunk-8-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20313,7 +20313,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "night-cave-chunk-9-fa7b2e50.png",
+      "image": "night-cave-chunk-9-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20328,7 +20328,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "night-cave-chunk-10-fa7b2e50.png",
+      "image": "night-cave-chunk-10-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20343,7 +20343,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "night-cave-chunk-11-fa7b2e50.png",
+      "image": "night-cave-chunk-11-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20358,7 +20358,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "night-cave-chunk-12-fa7b2e50.png",
+      "image": "night-cave-chunk-12-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20373,7 +20373,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "night-cave-chunk-13-fa7b2e50.png",
+      "image": "night-cave-chunk-13-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20388,7 +20388,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "night-cave-chunk-14-fa7b2e50.png",
+      "image": "night-cave-chunk-14-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20403,7 +20403,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "night-cave-chunk-15-fa7b2e50.png",
+      "image": "night-cave-chunk-15-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20418,7 +20418,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "night-cave-chunk-16-fa7b2e50.png",
+      "image": "night-cave-chunk-16-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20433,7 +20433,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "night-cave-chunk-17-fa7b2e50.png",
+      "image": "night-cave-chunk-17-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20448,7 +20448,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "night-cave-chunk-18-fa7b2e50.png",
+      "image": "night-cave-chunk-18-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20463,7 +20463,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "night-cave-chunk-19-fa7b2e50.png",
+      "image": "night-cave-chunk-19-5d678611.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20490,6 +20490,11 @@
       "value": "Night Cave is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "night-cave.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Night Cave"
@@ -20503,6 +20508,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 157
 }

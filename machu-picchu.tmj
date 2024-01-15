@@ -8231,12 +8231,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "machu-picchu-chunk-1-b3874312.png",
+      "image": "machu-picchu-chunk-1-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8272,7 +8272,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "machu-picchu-chunk-2-b3874312.png",
+      "image": "machu-picchu-chunk-2-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8287,7 +8287,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "machu-picchu-chunk-3-b3874312.png",
+      "image": "machu-picchu-chunk-3-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8302,7 +8302,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "machu-picchu-chunk-4-b3874312.png",
+      "image": "machu-picchu-chunk-4-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8317,7 +8317,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "machu-picchu-chunk-5-b3874312.png",
+      "image": "machu-picchu-chunk-5-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8332,7 +8332,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "machu-picchu-chunk-6-b3874312.png",
+      "image": "machu-picchu-chunk-6-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8347,7 +8347,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "machu-picchu-chunk-7-b3874312.png",
+      "image": "machu-picchu-chunk-7-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8362,7 +8362,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "machu-picchu-chunk-8-b3874312.png",
+      "image": "machu-picchu-chunk-8-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8377,7 +8377,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "machu-picchu-chunk-9-b3874312.png",
+      "image": "machu-picchu-chunk-9-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8392,7 +8392,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "machu-picchu-chunk-10-b3874312.png",
+      "image": "machu-picchu-chunk-10-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8407,7 +8407,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "machu-picchu-chunk-11-b3874312.png",
+      "image": "machu-picchu-chunk-11-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8422,7 +8422,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "machu-picchu-chunk-12-b3874312.png",
+      "image": "machu-picchu-chunk-12-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8437,7 +8437,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "machu-picchu-chunk-13-b3874312.png",
+      "image": "machu-picchu-chunk-13-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8452,7 +8452,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "machu-picchu-chunk-14-b3874312.png",
+      "image": "machu-picchu-chunk-14-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8467,7 +8467,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "machu-picchu-chunk-15-b3874312.png",
+      "image": "machu-picchu-chunk-15-57e117fe.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8482,7 +8482,7 @@
     {
       "columns": 12,
       "firstgid": 3841,
-      "image": "machu-picchu-chunk-16-b3874312.png",
+      "image": "machu-picchu-chunk-16-57e117fe.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -8509,6 +8509,11 @@
       "value": "Machu Picchu is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "machu-pichu.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Machu Picchu"
@@ -8522,6 +8527,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 60
 }

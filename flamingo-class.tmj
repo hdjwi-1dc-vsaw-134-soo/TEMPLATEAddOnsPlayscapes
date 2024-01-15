@@ -5071,12 +5071,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "flamingo-class-chunk-1-eff62478.png",
+      "image": "flamingo-class-chunk-1-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5112,7 +5112,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "flamingo-class-chunk-2-eff62478.png",
+      "image": "flamingo-class-chunk-2-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5127,7 +5127,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "flamingo-class-chunk-3-eff62478.png",
+      "image": "flamingo-class-chunk-3-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5142,7 +5142,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "flamingo-class-chunk-4-eff62478.png",
+      "image": "flamingo-class-chunk-4-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5157,7 +5157,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "flamingo-class-chunk-5-eff62478.png",
+      "image": "flamingo-class-chunk-5-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5172,7 +5172,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "flamingo-class-chunk-6-eff62478.png",
+      "image": "flamingo-class-chunk-6-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5187,7 +5187,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "flamingo-class-chunk-7-eff62478.png",
+      "image": "flamingo-class-chunk-7-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5202,7 +5202,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "flamingo-class-chunk-8-eff62478.png",
+      "image": "flamingo-class-chunk-8-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5217,7 +5217,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "flamingo-class-chunk-9-eff62478.png",
+      "image": "flamingo-class-chunk-9-0f5b82e1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5232,7 +5232,7 @@
     {
       "columns": 10,
       "firstgid": 2305,
-      "image": "flamingo-class-chunk-10-eff62478.png",
+      "image": "flamingo-class-chunk-10-0f5b82e1.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -5259,6 +5259,11 @@
       "value": "Flamingo Class is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "flamingo-class.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Flamingo Class"
@@ -5272,6 +5277,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 50
 }

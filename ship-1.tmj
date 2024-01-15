@@ -2350,7 +2350,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ship-1-chunk-1-ababc7f6.png",
+      "image": "ship-1-chunk-1-6a9efa31.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2386,7 +2386,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ship-1-chunk-2-ababc7f6.png",
+      "image": "ship-1-chunk-2-6a9efa31.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2401,7 +2401,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ship-1-chunk-3-ababc7f6.png",
+      "image": "ship-1-chunk-3-6a9efa31.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2416,7 +2416,7 @@
     {
       "columns": 9,
       "firstgid": 769,
-      "image": "ship-1-chunk-4-ababc7f6.png",
+      "image": "ship-1-chunk-4-6a9efa31.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -2441,6 +2441,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Ship is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "ship-1.png"
     },
     {
       "name": "mapName",

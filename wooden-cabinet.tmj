@@ -7655,7 +7655,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "wooden-cabinet-chunk-1-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-1-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7691,7 +7691,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "wooden-cabinet-chunk-2-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-2-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7706,7 +7706,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "wooden-cabinet-chunk-3-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-3-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7721,7 +7721,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "wooden-cabinet-chunk-4-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-4-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7736,7 +7736,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "wooden-cabinet-chunk-5-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-5-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7751,7 +7751,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "wooden-cabinet-chunk-6-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-6-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7766,7 +7766,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "wooden-cabinet-chunk-7-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-7-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7781,7 +7781,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "wooden-cabinet-chunk-8-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-8-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7796,7 +7796,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "wooden-cabinet-chunk-9-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-9-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7811,7 +7811,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "wooden-cabinet-chunk-10-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-10-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7826,7 +7826,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "wooden-cabinet-chunk-11-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-11-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7841,7 +7841,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "wooden-cabinet-chunk-12-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-12-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7856,7 +7856,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "wooden-cabinet-chunk-13-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-13-0f92b7f7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -7871,7 +7871,7 @@
     {
       "columns": 15,
       "firstgid": 3329,
-      "image": "wooden-cabinet-chunk-14-f0b922c5.png",
+      "image": "wooden-cabinet-chunk-14-0f92b7f7.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -7896,6 +7896,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Wooden Cabinet is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "wooden-cabinet.png"
     },
     {
       "name": "mapName",

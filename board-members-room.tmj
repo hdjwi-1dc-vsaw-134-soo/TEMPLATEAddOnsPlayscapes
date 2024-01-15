@@ -6759,12 +6759,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "board-members-room-chunk-1-71911331.png",
+      "image": "board-members-room-chunk-1-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6800,7 +6800,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "board-members-room-chunk-2-71911331.png",
+      "image": "board-members-room-chunk-2-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6815,7 +6815,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "board-members-room-chunk-3-71911331.png",
+      "image": "board-members-room-chunk-3-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6830,7 +6830,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "board-members-room-chunk-4-71911331.png",
+      "image": "board-members-room-chunk-4-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6845,7 +6845,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "board-members-room-chunk-5-71911331.png",
+      "image": "board-members-room-chunk-5-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6860,7 +6860,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "board-members-room-chunk-6-71911331.png",
+      "image": "board-members-room-chunk-6-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6875,7 +6875,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "board-members-room-chunk-7-71911331.png",
+      "image": "board-members-room-chunk-7-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6890,7 +6890,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "board-members-room-chunk-8-71911331.png",
+      "image": "board-members-room-chunk-8-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6905,7 +6905,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "board-members-room-chunk-9-71911331.png",
+      "image": "board-members-room-chunk-9-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6920,7 +6920,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "board-members-room-chunk-10-71911331.png",
+      "image": "board-members-room-chunk-10-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6935,7 +6935,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "board-members-room-chunk-11-71911331.png",
+      "image": "board-members-room-chunk-11-cf4c0c6d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6950,7 +6950,7 @@
     {
       "columns": 15,
       "firstgid": 2817,
-      "image": "board-members-room-chunk-12-71911331.png",
+      "image": "board-members-room-chunk-12-cf4c0c6d.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -6977,6 +6977,11 @@
       "value": "Board Members Room is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
+      "name": "mapImage",
+      "type": "string",
+      "value": "board-members-room.png"
+    },
+    {
       "name": "mapName",
       "type": "string",
       "value": "Board Members Room"
@@ -6990,6 +6995,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.10",
   "width": 44
 }

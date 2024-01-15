@@ -5688,7 +5688,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tropical-forest-temple-chunk-1-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-1-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5724,7 +5724,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tropical-forest-temple-chunk-2-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-2-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5739,7 +5739,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tropical-forest-temple-chunk-3-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-3-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5754,7 +5754,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tropical-forest-temple-chunk-4-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-4-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5769,7 +5769,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tropical-forest-temple-chunk-5-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-5-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5784,7 +5784,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tropical-forest-temple-chunk-6-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-6-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5799,7 +5799,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tropical-forest-temple-chunk-7-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-7-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5814,7 +5814,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tropical-forest-temple-chunk-8-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-8-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5829,7 +5829,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tropical-forest-temple-chunk-9-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-9-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5844,7 +5844,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tropical-forest-temple-chunk-10-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-10-5f460c67.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -5859,7 +5859,7 @@
     {
       "columns": 10,
       "firstgid": 2561,
-      "image": "tropical-forest-temple-chunk-11-ed6188a1.png",
+      "image": "tropical-forest-temple-chunk-11-5f460c67.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -5884,6 +5884,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Tropical Forest Temple is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "tropical-forest-temple.png"
     },
     {
       "name": "mapName",
