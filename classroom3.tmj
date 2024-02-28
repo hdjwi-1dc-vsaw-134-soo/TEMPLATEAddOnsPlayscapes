@@ -2167,12 +2167,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.10.1",
+  "tiledversion": "1.10.2",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "classroom3-chunk-1-c34d2d17.png",
+      "image": "classroom3-chunk-1-f4e7f2ce.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2208,7 +2208,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "classroom3-chunk-2-c34d2d17.png",
+      "image": "classroom3-chunk-2-f4e7f2ce.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2223,7 +2223,7 @@
     {
       "columns": 13,
       "firstgid": 513,
-      "image": "classroom3-chunk-3-c34d2d17.png",
+      "image": "classroom3-chunk-3-f4e7f2ce.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -2257,7 +2257,7 @@
     {
       "name": "mapName",
       "type": "string",
-      "value": "Classroom"
+      "value": "Classroom 3"
     },
     {
       "name": "tilesetCopyright",
